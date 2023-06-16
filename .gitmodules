@@ -1,0 +1,3 @@
+[submodule "Week-1-Kovalchick"]
+	path = Week-1-Kovalchick
+	url = git@github.com:ekovalchick/Week-1-Kovalchick.git
